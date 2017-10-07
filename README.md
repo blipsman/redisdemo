@@ -9,7 +9,7 @@ Steps to run this application
 2. Go to command prompt to the appropriate directory.
 3. Run the command "gradle clean build".
 4. Go the build/libs directory.
-5. Run the jar file by using the command "java -jar <jarfile>"
+5. Run the jar file by using the command "java -jar jarfile"
   
 Prerequisite to run this application
 ********************************************
